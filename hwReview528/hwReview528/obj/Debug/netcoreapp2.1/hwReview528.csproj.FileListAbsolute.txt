@@ -1,0 +1,11 @@
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\bin\Debug\netcoreapp2.1\hwReview528.deps.json
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\bin\Debug\netcoreapp2.1\hwReview528.runtimeconfig.json
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\bin\Debug\netcoreapp2.1\hwReview528.runtimeconfig.dev.json
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\bin\Debug\netcoreapp2.1\hwReview528.dll
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\bin\Debug\netcoreapp2.1\hwReview528.pdb
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\obj\Debug\netcoreapp2.1\hwReview528.csprojAssemblyReference.cache
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\obj\Debug\netcoreapp2.1\hwReview528.csproj.CoreCompileInputs.cache
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\obj\Debug\netcoreapp2.1\hwReview528.AssemblyInfoInputs.cache
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\obj\Debug\netcoreapp2.1\hwReview528.AssemblyInfo.cs
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\obj\Debug\netcoreapp2.1\hwReview528.dll
+C:\Users\i.c. Stars Guest\source\repos\hwReview528\hwReview528\obj\Debug\netcoreapp2.1\hwReview528.pdb
